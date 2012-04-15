@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://sof0309.github.com/Sof-s-blog
-title: Somethings from my world
+title: Some things from my world
 subtitle: From a graphic designer with lots of hobbies
 author: Sofía
 simple_search: http://google.com/search
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: @sof_andrade
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
